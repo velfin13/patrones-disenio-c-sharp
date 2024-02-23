@@ -18,6 +18,3 @@ El patrón Builder se utiliza cuando la construcción de un objeto es compleja y
 ### Desventajas:
 
 - **Complejidad adicional**: Introduce más clases y puede aumentar la complejidad del código.
-
-### Diagrama
-
