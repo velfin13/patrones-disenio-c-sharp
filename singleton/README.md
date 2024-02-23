@@ -22,5 +22,6 @@ El patrón Singleton se utiliza para garantizar que una clase tenga una única i
 - **Testing**: Puede ser difícil de probar, ya que la instancia única persiste durante toda la ejecución y puede afectar a otros casos de prueba.
 
 ### Diagrama de clase
-![imagen](https://github.com/velfin13/patrones-disenio-c-sharp/assets/57650704/6a3ee800-1f89-43f7-8d09-5421e3efe4a9)
+![imagen](https://github.com/velfin13/patrones-disenio-c-sharp/assets/57650704/7b20a2a8-848d-40ae-9360-2f9b46535ac5)
+
 
