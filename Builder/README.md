@@ -1,4 +1,4 @@
-# Patrón de Diseño Singleton
+# Patrón de Diseño Buider
 
 ## Descripción:
 El patrón Builder se utiliza cuando la construcción de un objeto es compleja y queremos separar la construcción del objeto de su representación. Permite construir diferentes representaciones del mismo objeto utilizando un mismo proceso de construcción.
